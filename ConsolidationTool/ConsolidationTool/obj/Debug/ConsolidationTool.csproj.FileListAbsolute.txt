@@ -1,0 +1,17 @@
+C:\Users\Oswaldo Rodriguez\source\repos\ConsolidationTool\ConsolidationTool\bin\Debug\ConsolidationTool.exe.config
+C:\Users\Oswaldo Rodriguez\source\repos\ConsolidationTool\ConsolidationTool\bin\Debug\ConsolidationTool.exe
+C:\Users\Oswaldo Rodriguez\source\repos\ConsolidationTool\ConsolidationTool\bin\Debug\ConsolidationTool.pdb
+C:\Users\Oswaldo Rodriguez\source\repos\ConsolidationTool\ConsolidationTool\obj\Debug\ConsolidationTool.csproj.AssemblyReference.cache
+C:\Users\Oswaldo Rodriguez\source\repos\ConsolidationTool\ConsolidationTool\obj\Debug\ConsolidationTool.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oswaldo Rodriguez\source\repos\ConsolidationTool\ConsolidationTool\obj\Debug\ConsolidationTool.MainForm.resources
+C:\Users\Oswaldo Rodriguez\source\repos\ConsolidationTool\ConsolidationTool\obj\Debug\ConsolidationTool.Properties.Resources.resources
+C:\Users\Oswaldo Rodriguez\source\repos\ConsolidationTool\ConsolidationTool\obj\Debug\ConsolidationTool.csproj.GenerateResource.cache
+C:\Users\Oswaldo Rodriguez\source\repos\ConsolidationTool\ConsolidationTool\obj\Debug\ConsolidationTool.csproj.CoreCompileInputs.cache
+C:\Users\Oswaldo Rodriguez\source\repos\ConsolidationTool\ConsolidationTool\obj\Debug\ConsolidationTool.exe
+C:\Users\Oswaldo Rodriguez\source\repos\ConsolidationTool\ConsolidationTool\obj\Debug\ConsolidationTool.pdb
+C:\Users\Oswaldo Rodriguez\source\repos\ConsolidationTool\ConsolidationTool\obj\Debug\ConsolidationTool.csproj.ResolveComReference.cache
+C:\Users\Oswaldo Rodriguez\source\repos\ConsolidationTool\ConsolidationTool\bin\Debug\ConsolidationTool.exe.manifest
+C:\Users\Oswaldo Rodriguez\source\repos\ConsolidationTool\ConsolidationTool\bin\Debug\ConsolidationTool.application
+C:\Users\Oswaldo Rodriguez\source\repos\ConsolidationTool\ConsolidationTool\obj\Debug\ConsolidationTool.TrustInfo.xml
+C:\Users\Oswaldo Rodriguez\source\repos\ConsolidationTool\ConsolidationTool\obj\Debug\ConsolidationTool.exe.manifest
+C:\Users\Oswaldo Rodriguez\source\repos\ConsolidationTool\ConsolidationTool\obj\Debug\ConsolidationTool.application
